@@ -1,0 +1,28 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+nohup.out
+
+# Static files
+/static_collect/
+
+# Environment variables
+.env
+
+# Django specific
+*.log
+local_settings.py
+
+# IDE specific (optional, adjust as needed)
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
